@@ -37,6 +37,9 @@ This Application used to track Pair Programming hours. The application stores in
 ### Design
 This application was designed to utilize asynchronous requests to Java controller with jQuery's AJAX. I kept the whole application in one DOM (index.html) and manipulated the DOM to change the users view and not switch .html files.
 
+### Challenges
+
+- Transitioning from XHR open requests to AJAX using JQUERY. 
 
 ### How to Run
 You can run this on my website at http://www.patgaston.com:8080/Etched
