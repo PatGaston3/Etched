@@ -5,9 +5,9 @@
 ## Week 13 Skill Distillery Project 
 
 ### Overview 
-This project is as much about using JSON and SpringREST as it is handling JSON responses with JavaScript. As a result, don't get to caught up on the functionality of your final project, make sure that everything is configured correctly and working then slowly scale up to more complexity.
+This project is as much about using JSON and SpringREST as it is handling JSON responses with JavaScript.
 
-'Event Tracker' is a broad term for anything that keeps track of information over time. Examples of these applications are 'Mint' (financial tracking) and 'MyFitnessPal' (diet and exercise tracker). These are very involved applications with a huge feature set. You are embarking on a weekend project that you may or may not come back to afterwards, thus we would caution you to limit your scope significantly. Examples of limited scope would be 'Gas Tracker' (keep track of your fill ups and total mileage to determine dollar/gallon 
+'Event Tracker' is a broad term for anything that keeps track of information over time. Examples of these applications are 'Mint' (financial tracking) and 'MyFitnessPal' (diet and exercise tracker).
 
 This Application used to track Pair Programming hours. The application stores information about friends you have paird with as well as aggregated data in the form of <b>Total Pair Programming Hours</b>
 
