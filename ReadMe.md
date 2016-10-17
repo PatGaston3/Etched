@@ -25,6 +25,8 @@ This Application used to track Pair Programming hours. The application stores in
 <li>SpringMVC</li>
 </ul>
 <li>MySQL</li>
+<li>Postman</li>
+<li>MAMP</li>
 <li>JSON data file manipulation</li>
 <li>DOM Manipulation</li>
 <li>JQuery</li>
@@ -39,13 +41,11 @@ This application was designed to utilize asynchronous requests to Java controlle
 ### How to Run
 You can run this on my website at http://www.patgaston.com:8080/Etched
 
-You can use various logins to access the information. 
+You can use various logins to access the information (database). 
 
 The accounts are:
 <ul>
 <li><b>Username:</b> pgaston<br> <b>Password:</b> pgaston </li>
 <li><b>Username:</b> snagle<br> <b>Password:</b> snagle </li>
 <li><b>Username:</b> rhammond<br> <b>Password:</b> rhammond </li>
-
-
 </ul>
